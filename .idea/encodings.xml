@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/ASM/ASM8086.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Lexer/Code_Tokenizer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Parser/AnalysisTableOfSLR.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Parser/AutoMaton_LALR.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Parser/AutoMaton_LR_0.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/Parser/Entry.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Parser/Grammar.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Parser/ProductionCollection.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Parser/Sign.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Symbols/SymbolTable.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
